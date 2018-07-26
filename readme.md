@@ -6,14 +6,10 @@ Para la realización de este proyecto se hizo uso de las metodologías ágiles D
 
 Herramientas
 
-Trello
-Canva
-Figma
-Google forms
+Trello,Canva,Figma,Google forms
 
+Desarrollo del Producto
 
-
-#Desarrollo del Producto
 ![stcm_1](img/stcm_1.png)
 ![stcm_2](img/stcm_2.png)
 ![stcm_3](img/stcm_3.png)
